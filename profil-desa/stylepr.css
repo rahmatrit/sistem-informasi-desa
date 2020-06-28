@@ -1,0 +1,18 @@
+body {
+    background-color: whitesmoke;
+}
+
+.containerprofile {
+    width: 800px;
+    background-color: white;
+    margin: 70px auto;
+    padding: 30px;
+    text-align: justify;
+}
+
+.containerprofile img{
+    display: block;
+    margin: auto;
+    padding: 20px;
+}
+

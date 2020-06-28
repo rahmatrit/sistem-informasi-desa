@@ -1,0 +1,24 @@
+body {
+    background-attachment: darkgrey;
+}
+
+.containergd{
+    width: 800px;
+    margin: auto;
+    padding-top: 100px;
+    padding-bottom: 30px;
+}
+
+.carousel {    
+    margin: auto;
+    background-color: darkgrey;
+}
+
+.carousel h5{    
+    padding-top : 30px;
+}
+
+.galeri {
+    background-color: darkgrey;
+    text-align: center;
+}

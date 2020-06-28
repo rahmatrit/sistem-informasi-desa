@@ -1,0 +1,71 @@
+body {
+    background-color: whitesmoke;
+}
+
+
+.uksurat img {
+    float: left;
+    position: absolute;
+    margin-top: 25px;
+    margin-left: 50px;
+}
+
+.uksurat {
+    margin: 100px auto 50px;
+    width: 793px;
+    height: 1020px;
+    background-color: white;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h4, h6 {
+    margin-bottom: 0rem;
+    font-weight: 500;
+    line-height: 1.2
+}
+
+.kop1 {
+    margin-left: 70px;
+    padding-top: 20px;
+    text-align: center;
+
+    
+}
+
+.gariskop {
+    padding: 5px;
+   border-bottom: 3px solid black;
+   margin-right: 50px;
+}
+
+.kop3 h5{
+    margin-top: 30px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+.nsurat {
+    text-align: center;
+    margin-left: -120px;
+    margin-top: -12px;
+    margin-bottom: 40px;
+}
+
+.p1 {
+    margin: 5px 90px;
+    text-align: justify;
+}
+
+table {
+    margin-left: 200px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+table tr{
+    margin-top: 30px;
+}
+
+.p2 {
+    text-align: center;
+    margin-left: 300px;
+}
